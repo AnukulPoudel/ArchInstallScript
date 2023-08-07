@@ -8,7 +8,7 @@ This script belongs to Ermanno Ferrari. I have tewaked it according to my needs.
 In this repository you will find packages-scripts for the base install of Arch Linux
 
 Make the script executable with chmod +x scriptname and then run with ./scriptname.
-Install the base packages and make sure to inlcude git so that you can clone the repository in chroot.
+Install the base packages and make sure to include git so that you can clone the repository in chroot.
 
 A small summary:
 
