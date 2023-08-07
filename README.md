@@ -1,6 +1,8 @@
 # ArchInstallScript
 This script belongs to Ermanno Ferrari. I have tewaked it according to my needs.
 
+### Note: I have yet to test this script.
+
 ## Arch Basic Install Commands-Script
 
 In this repository you will find packages-scripts for the base install of Arch Linux
